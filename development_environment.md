@@ -4,3 +4,4 @@
 - Local multi-node setup for distribution testing.
 - Integration with AI model inference tools.
 - Git-based version control (repo: https://github.com/letterj/Gurgeh).
+- Cursor AI editor with Erlang LSP (ELP) for syntax, completion, debugging support in POCs.
